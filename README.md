@@ -16,4 +16,4 @@ Comando 2: Loja. A loja apresenta 3 opções. A de comprar vida extra, a de comp
 Comando 3: Dormir. Dormir recupera completamente sua vida.
 
 -Codigo:
-O codigo do jogo usa principalmente switch case para as opções do jogador e while para a repetição da gamplay.
+O codigo do jogo usa principalmente switch case para as opções do jogador e while para a repetição da gamplay alem de um dictionary para as classes e func para os calculos e para os inimigos e status do jogador.
